@@ -1,2 +1,2 @@
-IO.puts "Hello world 
+IO.puts "hellow owrkld
 from elixir"
